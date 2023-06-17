@@ -5,6 +5,9 @@ import './globals.css'
 export const metadata = {
   title: 'Car Hub',
   description: 'Discover the best cars for rent in your area.',
+  icons: {
+    icon:'/favicon1.png',
+  },
 }
 
 export default function RootLayout({
