@@ -35,6 +35,11 @@
 .custom-btn {
   @apply flex flex-row relative justify-center items-center py-3 px-6 outline-none;
 }
+
+.scaled-down {
+  transform: scale(0.7);
+}
+
 /* END: General styles */
 
 /* START: Hero styles */

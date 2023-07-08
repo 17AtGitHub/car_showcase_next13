@@ -4,9 +4,9 @@ import Navbar from './Navbar'
 import Footer from './Footer'
 import CustomFilter from './CustomFilter'
 import SearchBar from './SearchBar'
-import SearchManufacturer from './SearchManufacturer'
+import SearchManufacturer from './SearchMaker'
 import CarCard from './CarCard'
-import CarDetails from './CarDetails'
+import CarDetails from './BikeDetails'
 import ShowMore from './ShowMore'
 
 export{
